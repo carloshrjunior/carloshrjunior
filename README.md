@@ -1,8 +1,9 @@
 ## Olá! Eu sou o Carlos 🧔🏻
 
-- 💻 Hoje trabalho com front-end
-- 📚 Estudando Javascript e jQuery
-- 🎯 Próximas tecnologias: Bootstrap, ReactJS, NodeJS, Firebase e MongoDB
+- 💻 Hoje trabalho com desenvolvimento front-end
+- 📈 Conhecimento em HTML5, CSS3, Javscript, jQuery, Bootstrap
+- 📚 Estudando ReactJS
+- 🎯 Próximas tecnologias: NodeJS, Firebase e MongoDB
 - 🏃🏻‍♂️ Buscando o full stack
 
  <div>

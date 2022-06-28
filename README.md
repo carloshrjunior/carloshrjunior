@@ -3,8 +3,7 @@
 - 💻 Hoje trabalho com desenvolvimento front-end
 - 📈 Conhecimento em HTML5, CSS3, Javscript, jQuery, Bootstrap
 - 📚 Estudando ReactJS
-- 🎯 Próximas tecnologias: NodeJS, Firebase e MongoDB
-- 🏃🏻‍♂️ Buscando o full stack
+- 🎯 Próxima(s) tecnologia(s): TypeScript
 
  <div>
   <a href="https://github.com/carloshrjunior">
